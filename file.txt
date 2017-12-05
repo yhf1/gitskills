@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world lg
+=======
+hello world yhf
+>>>>>>> feature1
